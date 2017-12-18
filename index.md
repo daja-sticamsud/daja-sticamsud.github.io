@@ -13,3 +13,7 @@ Three institutions are part of DAJA:
 - University of Chile. General & national coordinator: [Dr. Alexandre Bergel](http://bergel.eu)
 - UNICEN University. National coordinator: [Dr. Santiago Vidal](https://sites.google.com/site/santiagoavidal/)
 - INRIA Nice Sophia Antipolis. National coordinator: [Manuel Serrano](http://www-sop.inria.fr/members/Manuel.Serrano/) and [Tamara Rezk](https://www-sop.inria.fr/lemme/Tamara.Rezk/)
+
+### Visits 
+- Alexandre Bergel will visit the INDES/Inria team in April 2018
+- Santiago Vidal will visit the University of Chile in August 2018
