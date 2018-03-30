@@ -14,6 +14,10 @@ Three institutions are part of DAJA:
 - UNICEN University. National coordinator: [Dr. Santiago Vidal](https://sites.google.com/site/santiagoavidal/)
 - INRIA Nice Sophia Antipolis. National coordinator: [Manuel Serrano](http://www-sop.inria.fr/members/Manuel.Serrano/) and [Tamara Rezk](https://www-sop.inria.fr/lemme/Tamara.Rezk/)
 
+Undergrad students:
+- Diego Orellana, University of Chile, working on "Visualizing and static analyses techniques for JavaScript"
+
 ### Visits 
-- Alexandre Bergel will visit the INDES/Inria team in April 2018
+- Alexandre Bergel will visit the INDES/Inria team during April 6--14, 2018
+- Santiago Vidal will visit the INDES/Inria team in April 8--20, 2018
 - Santiago Vidal will visit the University of Chile in August 2018
